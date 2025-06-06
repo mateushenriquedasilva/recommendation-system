@@ -1,0 +1,1 @@
+Entenda a teoria e desenvolva passo a passo um sistema de recomendação de filmes utilizando filtragem colaborativa.
